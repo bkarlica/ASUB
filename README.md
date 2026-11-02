@@ -2,6 +2,8 @@
 
 Timski projekt s FER-a usmjeren na razvoj sustava za automatsku detekciju intracerebralnog krvarenja na CT slikama mozga primjenom digitalne obrade slike i klasičnih metoda strojnog učenja.
 
+Detaljnije proćitajte ovdje: [Izvještaj.pdf](Izvještaj.pdf)
+
 ## Opis projekta
 
 Cilj projekta bio je klasificirati CT slike mozga u dvije kategorije: **krvarenje** i **bez krvarenja**. Razvijen je postupak koji obuhvaća predobradu slika, izdvajanje regije interesa (ROI), ekstrakciju vizualnih značajki i usporedbu modela.
