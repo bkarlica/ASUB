@@ -2,7 +2,7 @@
 
 Timski projekt s FER-a usmjeren na razvoj sustava za automatsku detekciju intracerebralnog krvarenja na CT slikama mozga primjenom digitalne obrade slike i klasičnih metoda strojnog učenja.
 
-Detaljnije proćitajte ovdje: [Izvještaj.pdf](Izvještaj.pdf)
+Detaljnije proćitajte ovdje: [Izvještaj.pdf](ASUB/Izvještaj.pdf)
 
 ## Opis projekta
 
